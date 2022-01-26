@@ -1,0 +1,48 @@
+{
+	"storyName": "extra songs",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"cheating",
+			"stick",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"crucify",
+			"stick",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"final-destination",
+			"stick",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "covers"
+}
