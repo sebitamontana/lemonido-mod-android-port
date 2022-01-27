@@ -1,22 +1,48 @@
 {
 	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		[
+			"ugh",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guns",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stress",
+			"tankgod",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "mendoza",
 	"weekCharacters": [
-		"senpai",
+		"tankman",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
-	"startUnlocked": true,
-
+	"storyName": "El viaje a mendoza",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
