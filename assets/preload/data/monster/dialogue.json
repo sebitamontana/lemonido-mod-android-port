@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "what????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "ese es lemon demon con el virus glitch"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nnn.o.o.o.o.o"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(pensando) hasta habla raro y todo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(pensando) que hago, que hago, que hago."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "NO TE TENGO MIEDO!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tt.e va.s a ar.re. pentir.r.r.r.r.r.r.r.r.r..r.r..."
+		},
+		{
+			"speed": 0.095,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "fck"
+		}
+	]
+}
