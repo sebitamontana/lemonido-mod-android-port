@@ -31,7 +31,7 @@ class MainMenuState extends MusicBeatState
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 	
-	var optionShit:Array<String> = ['story_mode', 'freeplay', #if ACHIEVEMENTS_ALLOWED 'awards', #end 'credits', #if !switch 'donate', #end 'options'];
+	var optionShit:Array<String> = ['story_mode', 'freeplay', 'credits', #if !switch 'donate', #end 'options'];
 
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
@@ -143,7 +143,7 @@ class MainMenuState extends MusicBeatState
 	// Unlocks "Freaky on a Friday Night" achievement
 	function giveAchievement() {
 		add(new AchievementObject('friday_night_play', camAchievement));
-		FlxG.sound.play(Paths.sound('confirmMenu'), 0.7);
+		FlxG.sound.play(Paths.sound('cancelmenu'), 0.7);
 		trace('Giving achievement "friday_night_play"');
 	}
 	#end
