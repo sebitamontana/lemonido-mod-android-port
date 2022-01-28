@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "spooky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "aaaaaaaaaaaaaaaaaa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mire mucho para abajo y tengo roja la cabeza"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Se me pudrio la calabaza"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "piola"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "piola"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "piola"
+		}
+	]
+}
