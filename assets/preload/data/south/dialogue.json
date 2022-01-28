@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "spooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fksdjfkljfaskfhweioprtfhwiopfhwiotyhgflflfl\\nfgkjfgljdfgklgjfglk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wejkfhweuiptfhnñuoheoñfdhnsoguhodkjfkflz\\nkdfhkhasdfjsdfhajdhjhsadl"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dfhweiugbfvjvbghjwkdvbeugsvn bcac"
+		}
+	]
+}
