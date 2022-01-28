@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "son las 9:30 y es  el primer recreo y Lemon bf esta en la escuela"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "RIIIIIING!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dale dale vamos!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "espera"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hay alguien atras del escenario"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "voy a ir"
+		}
+	]
+}
