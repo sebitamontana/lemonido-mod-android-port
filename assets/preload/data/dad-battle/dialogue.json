@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.08,
+			"portrait": "none",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "RIIIIIIING!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Se me hizo re cortito el recreo. apenas comi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "un rato despues toca de nuevo el timbre del recreo"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "RIIIIIIING!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pero esta vez es el de juegos. Lemon Bf va a ir al escenario de nuevo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dad batel"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what the f#ck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lo decimos a proposito ¿no?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "aaaaaaaaaaaaa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "dale papussssssssssssssss"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "empiezen o les pego a los dos papussssss"
+		},
+		{
+			"speed": 0.18,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		},
+		{
+			"speed": 0.18,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
